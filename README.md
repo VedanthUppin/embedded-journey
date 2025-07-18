@@ -5,7 +5,7 @@ This is my 2-year deep dive into Embedded Systems and Systems Programming. This 
 
 ---
 
-## 🛠️ Current Focus (June 2025)
+## Current Focus (June 2025)
 - Brushing up on C (pointers, memory models, linker scripts)
 - Linux fundamentals (file system, bash, permissions, process management)
 - Working through Embedded Systems course on edX
@@ -13,7 +13,7 @@ This is my 2-year deep dive into Embedded Systems and Systems Programming. This 
 
 ---
 
-## 📁 Repo Structure
+## Repo Structure
 
 | Folder | Description |
 |--------|-------------|
@@ -24,4 +24,18 @@ This is my 2-year deep dive into Embedded Systems and Systems Programming. This 
 
 ---
 
+## Current Focus (July 2025)
 
+- Learning Linux fundamentals — completed 9 lessons from **LFS101x: Introduction to Linux**
+- Exploring Operating Systems via **NPTEL course** and curated YouTube resources
+- Working through **"Learn Memory Management in C"** by Boot.dev to understand heap, stack, and malloc
+- Setting up my GitHub and documenting every meaningful step
+- Beginning to structure this repo into concept folders and micro-projects
+
+---
+
+## Goals for August 2025
+
+- Complete LFS101x course and revise notes
+- Finish Boot.dev memory management track
+- Document my OS learning
