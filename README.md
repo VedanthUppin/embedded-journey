@@ -34,8 +34,17 @@ This is my 2-year deep dive into Embedded Systems and Systems Programming. This 
 
 ---
 
+## Stuff completed in July
+- Completed 10 lessons from **LFS101x: Introduction to Linux**
+- Completed 50% of **"Learn Memory Management in C"** by Boot.dev
+- Completed week 2 of **NPTEL's Introduction to OS course**
+
+---
+
 ## Goals for August 2025
 
 - Complete LFS101x course and revise notes
-- Finish Boot.dev memory management track
-- Document my OS learning
+- Finish Boot.dev memory management in C track
+- Finish **NPTEL's Introduction to OS course**
+- Finish Step 5 of Strivers A2Z DSA Course
+- Finalize on the problem statement for 15 month Capstone project.
