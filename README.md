@@ -33,7 +33,7 @@ This is my 2-year deep dive into Embedded Systems and Systems Programming. This 
 
 ---
 
-## Stuff completed in July
+## July Progress Report
 - Completed 10 lessons from **LFS101x: Introduction to Linux**
 - Completed 50% of **"Learn Memory Management in C"** by Boot.dev
 - Completed week 2 of **NPTEL's Introduction to OS course**
