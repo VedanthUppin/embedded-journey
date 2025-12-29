@@ -70,3 +70,13 @@ This is my 2-year deep dive into Embedded Systems and Systems Programming. This 
 
 - Finished **"Learn Memory Management in C"** by Boot.dev
 
+---
+
+## Goals for Jan 2026
+
+- Complete Udemy's Embedded Systems Programming on ARM Cortex-M3/M4 Processor
+- Complete Malloc project
+- Complete Linked List from Striver's A-Z DSA sheet.
+
+---
+  
